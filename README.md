@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Akashz11
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Akash Yadav
+- 👀 and I'm interested in coding
 - 🌱 I’m currently learning python data structure
 - 💞️ I’m looking to collaborate on multinational companies
 - 📫 How to reach me through internet Email:- yadavakash.pnk@gmail.com
